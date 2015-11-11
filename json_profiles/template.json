@@ -1,0 +1,10 @@
+[
+	"{% ~20 %}"
+	{
+		"task": "{{ lorem(4) }}",
+		"user": "{{ random('alice', 'bob', 'charlie') }}",
+		"priority": "{{ integer(0, 5)}}",
+		"done": {{ bool() }}
+	}
+	"{% ~end %}"
+]

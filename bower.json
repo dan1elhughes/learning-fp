@@ -1,0 +1,17 @@
+{
+  "name": "fp",
+  "authors": [
+    "dan.hughes <dan.hughes@heathwallace.com>"
+  ],
+  "description": "fp",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "ramda": "~0.18.0",
+    "jquery": "~2.1.4"
+  }
+}
